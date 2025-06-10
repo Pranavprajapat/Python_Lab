@@ -1,0 +1,5 @@
+name=str(input("enter your name:"))
+age=int(input("enter your age:"))
+print(".......(*_*)......")
+print("your name is:",name)
+print("your age is:",age)
